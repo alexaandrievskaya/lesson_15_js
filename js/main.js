@@ -107,7 +107,7 @@ console.log(myPow);
 var strObj = {
     str: 'Мама мыла раму, рама мыла маму',
 }
-strObj.lenght = strObj.str.length;
+strObj.length = strObj.str.length;
 
 console.log(strObj);
 
